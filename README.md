@@ -1,1 +1,1 @@
-# TranslyatorC
+# Translyator C
